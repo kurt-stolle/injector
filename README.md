@@ -1,2 +1,5 @@
-# injector
-a .dll injector for Windows
+# Injector
+
+A .dll injector for Windows. Controllable via console.
+
+Intended for learning purposes.
